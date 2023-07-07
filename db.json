@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Vanilla Dream",
-      "icecream_left": 10,
+      "icecream_left": 9,
       "description": "Indulge in the creamy delight of vanilla ice cream that will satisfy your sweet cravings.",
       "image": "https://media.istockphoto.com/id/157472912/photo/ice-cream-composition-on-a-bowl.jpg?s=1024x1024&w=is&k=20&c=WRb5JZpe8si-1X8Vn_fGnIsUTvozKD-V5XqnAq5U4A0="
     },
@@ -35,6 +35,5 @@
       "description": "Indulge in the smooth and luscious caramel flavor that will melt in your mouth.",
       "image": "https://media.istockphoto.com/id/469560631/photo/ice-cream-with-nuts-and-strawberry.jpg?s=1024x1024&w=is&k=20&c=48hFGHII3-FlTgzBBZoM4ml3rVsLih6UH_3Ch_ghcXM="
     }
-
   ]
 }

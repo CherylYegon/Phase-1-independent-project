@@ -5,8 +5,8 @@
 
  ## links:
  ### Live link
+https://cherylyegon.github.io/Phase-1-independent-project/
 
- 
  ### Figma design
  https://www.figma.com/file/tfpq315fVQCyF2EsTEovG8/ICE-CREAM-PARLOR?type=design&node-id=0-1&mode=design&t=pm6Z8sqzlKazmA6T-0
 
