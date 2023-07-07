@@ -4,6 +4,12 @@
     box-sizing: border-box;
     font-family: sans-serif;
     
+    
+}
+body{
+    background: black;
+
+
 }
 /* Navbar styles */
 .navbar {
@@ -46,7 +52,7 @@
   .container {
     display: flex;
     gap: 20px;
-    margin:60px;
+    margin:40px;
     
   }
 
@@ -57,39 +63,96 @@
     background-color: blue;
     padding: 4px;
   }
+  .ice-section h2{
+    padding: 20px;
+    text-align: center;
+    
+  }
+  .ice-section li{
+    background: white;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .ice-section li:hover{
+    background-color: chocolate;
+  }
   
   .details-section {
     flex: 1 0 40%;
     background-color: lightblue;
     border-radius: 10px;
-    padding: 4px;
+    padding: 20px;
   }
+
   
   .ice-details img {
-    width: 70px;
+    width: 100%;
+    height: 300px;
     object-fit: contain;
+  }
+  .button-container button{
+    background-color:tomato;
+    margin-top: 1rem;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 15px;
+    color: antiquewhite;
+    cursor: pointer;
+  }
+  .button-container button:hover{
+    background-color: orange;
+    transform: scale(1.1);
+    transition: transform 0.5s ease-in-out;
   }
   
 
   /* Homepage styles */
   .homepage {
+    color: aliceblue;
     display: flex;
-    margin-top: 100px; /* Adjust the margin as needed */
+    margin-top: 4rem; /* Adjust the margin as needed */
   }
   .homeimage{
     flex: 1 0 40%;
+    padding: 0px;
+
   }
   
   .homeimage img {
     width: 100%;
-    height: 50vh;
+    height: 70vh;
     object-fit: contain;
-    margin-left: 100px;
+    margin-left: 0px;
   }
+
+ 
+  .homebtn a button{
+    padding: 10px 30px;
+    margin-left: 25rem;
+    background-color: coral;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+    
+  }
+  .homebtn a button:hover{
+    background-color: coral;
+    transform: scale(1.2);
+  }
+
+  
   
   .hometitle {
-    display: flex;
-    flex-direction: row;
+    display: inline-block;
+    margin-right: 10rem;
+    /* flex-direction: row; */
   }
   .hometitle img{
     width: 100%;
@@ -99,10 +162,19 @@
   
   .hometitle h1 {
     flex: 1;
+    font-size: 50px;
   }
   
   .hometitle p {
     flex: 1;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .hometitle img {
+    padding-top: 10px;
+    padding-right: 200px;
+    width: 100%;
+    height:200px;
   }
   
   .aboutice{
