@@ -11,7 +11,7 @@ https://cherylyegon.github.io/Phase-1-independent-project/
  https://www.figma.com/file/tfpq315fVQCyF2EsTEovG8/ICE-CREAM-PARLOR?type=design&node-id=0-1&mode=design&t=pm6Z8sqzlKazmA6T-0
 
  ### Json server 
-
+https://ice-cream-parlor.onrender.com
 
  ## Table of content 
  1. Description
