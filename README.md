@@ -3,6 +3,16 @@
 ## By:
  Cheryl Yegon
 
+ ## links:
+ ### Live link
+
+ 
+ ### Figma design
+ https://www.figma.com/file/tfpq315fVQCyF2EsTEovG8/ICE-CREAM-PARLOR?type=design&node-id=0-1&mode=design&t=pm6Z8sqzlKazmA6T-0
+
+ ### Json server 
+
+
  ## Table of content 
  1. Description
  2. Project set-up

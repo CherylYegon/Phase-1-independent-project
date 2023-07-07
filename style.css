@@ -228,34 +228,3 @@ body{
   }
 
 
-/*  
-section nav{
-    display:flex;
-    justify-content: space-around;
-    align-items: center;
-    position:fixed;
-    left: 0;
-    right:0;
-    box-shadow:0 0 10px rgba(red, green, blue, alpha);
-    z-index: 1000;
-    box-shadow: white;
-}
-section nav .logo img{
-    width: 75px;
-    height: 75px;
-    cursor: pointer;
-    margin:5px 0;
-}
-
-section nav ul{
-    list-style: none;
-}
-section nav ul li{
-    display: inline-block;
-    margin:0 10 px;
-
-}
-section nav ul li a{
-    text-decoration: none:
-    
-} */
