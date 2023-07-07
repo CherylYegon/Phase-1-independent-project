@@ -1,0 +1,40 @@
+{
+  "icecream": [
+    {
+      "id": "1",
+      "title": "Vanilla Dream",
+      "icecream_left": 10,
+      "description": "Indulge in the creamy delight of vanilla ice cream that will satisfy your sweet cravings.",
+      "image": "https://media.istockphoto.com/id/157472912/photo/ice-cream-composition-on-a-bowl.jpg?s=1024x1024&w=is&k=20&c=WRb5JZpe8si-1X8Vn_fGnIsUTvozKD-V5XqnAq5U4A0="
+    },
+    {
+      "id": "2",
+      "title": "Choco Explosion",
+      "icecream_left": 5,
+      "description": "Experience the explosion of rich chocolate flavors in every bite of this decadent ice cream.",
+      "image": "https://media.istockphoto.com/id/157606519/photo/multi-flavor-ice-cream.jpg?s=1024x1024&w=is&k=20&c=4MtogKC_gu6iUGI2gbUllwKCK9Ej9C0kfVw_kc-iq78="
+    },
+    {
+      "id": "3",
+      "title": "Cookies and Cream",
+      "icecream_left": 5,
+      "description": "Indulge in the classic combination of chocolate cookies crumbled into creamy vanilla ice cream.",
+      "image": "https://media.istockphoto.com/id/178067423/photo/ice-cream-in-a-glass-decorated-with-fruits.jpg?s=1024x1024&w=is&k=20&c=aYiEfbCixTDebRuc_txt46v2EFV6qKOyZdbU5TNBb44="
+    },
+    {
+      "id": "4",
+      "title": "Rainbow Swirl",
+      "icecream_left": 14,
+      "description": "Experience a burst of colors and flavors with this delightful rainbow-inspired ice cream.",
+      "image": "https://media.istockphoto.com/id/1300397007/photo/ice-cream-dessert.jpg?s=1024x1024&w=is&k=20&c=LUXAuqBdNBTSMXQMtXLam7WBI9V9jEtYWBH7P_Wnf1w="
+    },
+    {
+      "id": "5",
+      "title": "Caramel Delight",
+      "icecream_left": 8,
+      "description": "Indulge in the smooth and luscious caramel flavor that will melt in your mouth.",
+      "image": "https://media.istockphoto.com/id/469560631/photo/ice-cream-with-nuts-and-strawberry.jpg?s=1024x1024&w=is&k=20&c=48hFGHII3-FlTgzBBZoM4ml3rVsLih6UH_3Ch_ghcXM="
+    }
+
+  ]
+}
